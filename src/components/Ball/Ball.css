@@ -1,7 +1,8 @@
 .ball {
     display: inline-block;
-    padding: 30px;
+    width: 100px;
     border-radius: 50%;
     border: 1px solid black;
     margin-right: 20px;
+    line-height: 100px;
 }
