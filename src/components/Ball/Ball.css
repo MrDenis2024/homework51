@@ -1,0 +1,9 @@
+.ball {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    padding: 30px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-right: 20px;
+}
