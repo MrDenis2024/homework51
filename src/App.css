@@ -4,3 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+
+.btn {
+  display: block;
+  margin: 0 auto 50px;
+  border: 1px solid black;
+}

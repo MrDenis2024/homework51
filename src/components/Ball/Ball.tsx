@@ -1,5 +1,5 @@
-import React from "react";
-import './Ball.css'
+import React from 'react';
+import './Ball.css';
 
 interface Props {
     number: number;
